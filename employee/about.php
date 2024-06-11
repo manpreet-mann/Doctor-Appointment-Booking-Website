@@ -5,7 +5,6 @@ require('header.php');
     <div class="container">
         <div class="row align-items-center">
             <div class="col-lg-7 col-md-12">
-                <!-- about-img -->
                 <div class="about-img ">
                     <img src="assets/img/gallery/about.png" alt="">
                 </div>
